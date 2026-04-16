@@ -40,22 +40,17 @@ Key visualizations and findings:
 ```
 Females: 70% buyers, higher avg spend (₹14K vs ₹11K for males).
 ```
-![Gender Sales](https://via.placeholder.com/600x300?text=Gender+Sales+Barplot) *(View notebook for interactive charts)*
 
 ### 2. Top Age Group
 ```
 26-35 yrs (esp. females): 50%+ orders.
 ```
-![Age Group](https://via.placeholder.com/600x300?text=Age+Group+Countplot)
-
 ### 3. Top States (Orders & Amount)
 | State           | Orders | Amount (₹ Cr) |
 |-----------------|--------|---------------|
 | Uttar Pradesh  | 24K   | 15.2         |
 | Maharashtra    | 14K   | 10.1         |
 | Karnataka      | 9K    | 6.3          |
-
-![State Sales](https://via.placeholder.com/800x300?text=Top+States+Barplot)
 
 ### 4. Marital Status & Occupation
 - **Married women** dominate high-value purchases.
@@ -65,17 +60,16 @@ Females: 70% buyers, higher avg spend (₹14K vs ₹11K for males).
 ```
 Food (26%), Clothing (17%), Electronics (12%).
 ```
-![Product Category](https://via.placeholder.com/800x300?text=Product+Category+Sales)
 
 **Core Insight**: *Married women (26-35 yrs) from UP/Maharashtra/Karnataka in IT/Healthcare/Aviation buy most Food/Clothing/Electronics.*
 
-##  Business Recommendations
+## Business Recommendations
 1. **Targeted Campaigns**: Email/SMS to married women 26-35 in top states with Food/Clothing deals.
 2. **Stock UP**: Allocate 50% inventory to top 3 states/categories.
 3. **Occupation Focus**: Partner with IT/Healthcare firms for Diwali promotions.
 4. **A/B Test**: Gender-specific discounts → Expected 15% sales lift.
 
-##  Technologies Used
+## Technologies Used
 - **Python**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
 - **Notebook**: Jupyter
@@ -90,6 +84,5 @@ Total Sales: **₹1.82 Cr** | Avg Order: ₹844 | Top Product IDs by Amount avai
 
 **Portfolio Project by [Your Name] | LinkedIn/GitHub: [Add Links]**
 
-![Diwali Sales](https://via.placeholder.com/1200x400?text=Diwali+Sales+Dashboard)
 *(Full analysis in notebook)*
 
